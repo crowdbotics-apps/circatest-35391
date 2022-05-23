@@ -38,12 +38,7 @@ export class Blank extends React.Component {
         }}
         style={styles.ImageBackground_3_24}
       />
-      <View style={styles.View_3_25}>
-        <View style={styles.View_3_26} />
-        <View style={styles.View_3_27}>
-          <Text style={styles.Text_3_27}>animation BELOW</Text>
-        </View>
-      </View>
+      
     </ScrollView>
   )
 }
